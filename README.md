@@ -1,76 +1,190 @@
 # Aakif Ahmed
 
-**Computer Science undergraduate building cybersecurity, local AI and automation systems.**
+**Computer Science undergraduate building cybersecurity, artificial intelligence and automation systems.**
 
-I am a Computer Science student at the University of West London, focused on
-cybersecurity, artificial intelligence, workflow automation and practical system
-development.
+I am a Computer Science student at the University of West London with a strong interest in cybersecurity, artificial intelligence, workflow automation and secure system development.
 
-My portfolio combines university work with independent projects involving local
-LLMs, network security, database engineering, automation pipelines and software
-product development.
+My portfolio combines completed university projects with independent technical work involving network security, relational databases, local large language models, automation pipelines and software product development.
+
+I am currently seeking a **2026/27 UK placement** in cybersecurity, security engineering, AI and automation, technical consulting or software engineering.
 
 ## Current Focus
 
-- Cybersecurity and security engineering
-- Local AI deployment and LLM integration
-- Workflow automation and AI-assisted systems
-- Network architecture and system security
-- Python, Java, SQL, JavaScript and Lua development
+* Cybersecurity and secure system design
+* Local AI deployment and LLM integration
+* AI agents and workflow automation
+* Network architecture, segmentation and testing
+* Database engineering and SQL
+* Python, Java, JavaScript and Lua development
+* Technical documentation and system design
 
 ## Selected Projects
 
-| Project | Description | Technologies | Status |
-|---|---|---|---|
-| Local AI Knowledge and Automation System | Self-hosted environment for local LLM inference, semantic search, structured knowledge management and automated note workflows. | Ollama, Gemma, Qwen, Obsidian, Python | Active development |
-| BlindsideCSN Research Pipeline | Cybercrime research and content workflow that collects, evaluates and structures real-world digital crime stories using automation and local AI. | n8n, RSS, local LLMs, Google Sheets, Obsidian | Active development |
-| Secure Network Design Lab | Documented network environment covering segmentation, VLAN configuration, routing, testing and security considerations. | Cisco Packet Tracer, VLANs, routing protocols | Portfolio preparation |
-| Database Engineering Portfolio | Relational database work covering schema design, normalisation, SQL queries, data integrity and application requirements. | SQL, Oracle Database, database modelling | Portfolio preparation |
-| GritScience | Prototype performance platform combining workout data, RIR tracking, progression analysis and AI-assisted recommendations. | AI integration, system design, data modelling | Prototype |
-| 8-Ball Knockout | Multiplayer Roblox game project involving gameplay systems, Lua scripting, user interfaces, 3D assets and collaborative development. | Lua, Roblox Studio, Blender | Active development |
+| Project                                      | Description                                                                                                                                                                 | Technologies                                         | Status                           |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------- |
+| **Local AI Knowledge and Automation System** | Self-hosted system combining local LLM inference, semantic search, structured knowledge management and controlled automation workflows.                                     | Ollama, Gemma, Qwen, Obsidian, Python                | Active development               |
+| **BlindsideCSN Research Pipeline**           | Cybercrime research workflow that collects, evaluates and structures real-world digital crime stories using automation, local AI and human review.                          | n8n, RSS, local LLMs, Google Sheets, Obsidian        | Active development               |
+| **Secure Network Design Lab**                | Designed and tested a simulated network environment involving VLAN segmentation, IP addressing, routing protocols, network architecture and security-focused configuration. | Cisco Packet Tracer, VLANs, Routing, Network Testing | Completed                        |
+| **Database Engineering Portfolio**           | Developed a relational database solution covering requirements analysis, entity relationships, normalisation, SQL implementation, queries, constraints and data integrity.  | SQL, Oracle Database, Database Modelling             | Completed                        |
+| **GritScience**                              | AI-assisted fitness performance platform designed around workout logging, RIR tracking, progression analysis, performance statistics and adaptive recommendations.          | AI Integration, Data Modelling, System Design        | Prototype and active development |
+| **8-Ball Knockout**                          | Multiplayer Roblox game project involving Lua scripting, gameplay systems, user interfaces, animations, 3D assets and collaborative development.                            | Lua, Roblox Studio, Blender                          | Active development               |
 
-## Technical Toolkit
+## Technical Skills
 
-### Cybersecurity and Infrastructure
+### Cybersecurity and Networking
 
-- Network security
-- Linux fundamentals
-- VLAN configuration and routing
-- Packet analysis and network testing
-- Security research
-- Secure system design
+* Network security
+* Secure system design
+* VLAN configuration
+* Routing protocols
+* Network segmentation
+* Packet tracing and network testing
+* Linux fundamentals
+* Cybersecurity research
+* Threat and risk awareness
 
-### AI and Automation
+### Artificial Intelligence and Automation
 
-- Local LLM deployment
-- LLM integration
-- Prompt engineering
-- AI agents
-- Semantic search
-- Workflow automation
-- n8n
-- Ollama
+* Local AI deployment
+* Large language model integration
+* AI agents
+* Prompt engineering
+* Workflow automation
+* Semantic search
+* Retrieval-based knowledge systems
+* Ollama
+* n8n
+* Obsidian-based AI workflows
 
-### Development
+### Programming and Development
 
-- Python
-- Java
-- SQL
-- JavaScript
-- Lua
-- Git and GitHub
-- Database design
-- System design
+* Python
+* Java
+* SQL
+* JavaScript
+* Lua
+* Git and GitHub
+* Relational database design
+* System design
+* Software testing
+* Technical documentation
 
-## What I Am Building Towards
+## Current Projects
 
-I am seeking a 2026/27 UK placement in cybersecurity, security engineering,
-AI and automation, technical consulting or software engineering.
+### Local AI Knowledge and Automation System
 
-I am particularly interested in roles where I can combine security,
-problem-solving and emerging AI technologies to build practical systems.
+I am building a self-hosted AI environment that combines local language models with structured knowledge management and automation.
+
+The system is designed to support:
+
+* Private local LLM inference
+* Semantic search across structured notes
+* AI-assisted research and drafting
+* Controlled file and note creation
+* Automated workflow execution
+* Separation between AI-generated drafts and reviewed content
+
+The current stack includes Ollama, Gemma, Qwen, Obsidian, Python and workflow automation tools.
+
+### BlindsideCSN
+
+BlindsideCSN is a cybersecurity storytelling and research project focused on explaining digital heists, scams, breaches and cybercrime in accessible, non-technical language.
+
+The supporting research pipeline is being designed to:
+
+* Collect potential stories from RSS and manually selected sources
+* Evaluate stories against structured selection criteria
+* Analyse incidents using local language models
+* Generate organised research notes and draft content
+* Track stories through research, review and publishing stages
+* Preserve human review before publication
+
+### GritScience
+
+GritScience is a prototype performance platform focused on science-based strength and athletic development.
+
+Planned and developing features include:
+
+* Workout and exercise logging
+* Repetitions-in-reserve tracking
+* Strength and progression analysis
+* Muscle-group workload monitoring
+* Adaptive AI-assisted recommendations
+* Performance dashboards and statistics
+* Research-based digital learning resources
+
+### 8-Ball Knockout
+
+8-Ball Knockout is a multiplayer Roblox game where players compete as pool balls in arena-based knockout matches.
+
+My contributions include work across:
+
+* Gameplay concepts and systems
+* Lua scripting
+* User-interface design
+* 3D modelling
+* Animation integration
+* Map and environment design
+* Testing and balancing
+* Collaborative development
+
+## Completed Technical Work
+
+### Secure Network Design Lab
+
+Completed a network design and simulation project involving:
+
+* Network topology planning
+* VLAN segmentation
+* IP addressing
+* Routing configuration
+* Device communication testing
+* Connectivity troubleshooting
+* Security-focused architecture decisions
+* Cisco Packet Tracer implementation
+
+### Database Engineering Portfolio
+
+Completed a relational database project involving:
+
+* Requirements analysis
+* Entity-relationship modelling
+* Database normalisation
+* SQL schema creation
+* Primary and foreign keys
+* Data constraints and integrity rules
+* Data insertion and retrieval
+* Complex SQL queries
+* Database testing and documentation
+
+## Development Approach
+
+When developing technical projects, I focus on:
+
+* Understanding the problem before selecting tools
+* Designing systems before implementing them
+* Documenting architecture and design decisions
+* Testing assumptions and expected behaviour
+* Considering security, privacy and maintainability
+* Separating prototypes from production-ready systems
+* Reviewing AI-generated outputs before using them
+
+## Career Interests
+
+I am particularly interested in opportunities involving:
+
+* Cybersecurity
+* Security engineering
+* Security operations
+* Network security
+* AI and automation
+* Software engineering
+* Technical consulting
+* Cloud and infrastructure security
+* Emerging technology systems
 
 ## Contact
 
-- LinkedIn: [Aakif Ahmed](https://www.linkedin.com/in/aakif-ahmed-2a4477298/)
-- Email: [aakifahmed06@gmail.com](mailto:aakifahmed06@gmail.com)
+* **LinkedIn:** [Aakif Ahmed](https://www.linkedin.com/in/aakif-ahmed-2a4477298/)
+* **Email:** [aakifahmed06@gmail.com](mailto:aakifahmed06@gmail.com)
+* **Location:** London, United Kingdom
