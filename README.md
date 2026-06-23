@@ -132,16 +132,20 @@ My contributions include work across:
 
 ### Secure Network Design Lab
 
-Completed a network design and simulation project involving:
+Completed a documented portfolio reconstruction of a university networking project involving:
 
-* Network topology planning
-* VLAN segmentation
-* IP addressing
-* Routing configuration
-* Device communication testing
-* Connectivity troubleshooting
+* Multi-site network topology planning
+* VLAN segmentation for HR, IT and Finance
+* Consistent IPv4 subnetting and gateway design
+* Router-on-a-stick inter-VLAN routing
+* RIPv2 route configuration
+* SSH remote-management reference configurations
+* Switch port-security controls
 * Security-focused architecture decisions
-* Cisco Packet Tracer implementation
+* Technical and plain-English documentation
+* A roadmap for rebuilding and validating the topology in Cisco Packet Tracer
+
+The public repository contains reference configurations, diagrams and clearly labelled illustrative outputs. The final `.pkt` recreation and authentic Packet Tracer validation remain planned.
 
 ### Database Engineering Portfolio
 
